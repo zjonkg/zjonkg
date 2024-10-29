@@ -15,7 +15,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zjonkg&count_private=true&theme=react&border_radius=10"  height: 400; width=390" 
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=zjonkg&count_private=true&theme=react&border_radius=10"  height: 400; width=450" 
      alt="streak stats" />
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=zjonkg&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
