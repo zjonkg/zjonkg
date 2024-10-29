@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=70&pause=1000&width=435&lines=I'M+JON+GONCALVES)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Micro+5&size=50&pause=1000&color=3B60E4&center=true&random=true&width=435&height=60&lines=I'M+JON+GONCALVES)](https://git.io/typing-svg)
 <!--
 **zjonkg/zjonkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
